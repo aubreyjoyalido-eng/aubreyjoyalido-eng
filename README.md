@@ -1,4 +1,7 @@
-## Hi there 👋
+## # 👋 Welcome to My GitHub
+
+I'm Aubrey Joy S. Alido  
+🎓 IT Student | 📌 Project Manager | 🚀 Future IT Leader
 
 <!--
 **aubreyjoyalido-eng/aubreyjoyalido-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🎓 BS Information Technology Student<br>📌 Aspiring IT Manager | Project Manager<br><br>💼 Certifications:<br><br>☕ Java<br><br>🌐 HTML & CSS<br><br>🗄️ Database Management<br><br>🌍 Networking<br><br>🔐 Network Security<br><br>🚀 Passionate about leading IT projects, improving systems, and building efficient technical solutions.<br>🎯 Goal: To become a successful IT Manager leading high-performing tech teams.
+# # 💫 About Me:
+🎓 BS Information Technology Student<br>📌 Aspiring IT Manager | Project Manager<br><br>💼Certifications:<br>Java<br>HTML & CSS<br>Database Management<br>Networking<br>Network Security<br><br>🚀Passionate about leading IT projects, improving systems, and building efficient technical solutions.<br>🎯Goal: To become a successful IT Manager leading high-performing tech teams.
 
 
 ## 🌐 Socials:
@@ -34,5 +37,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=aubreyjoyalido-eng&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
