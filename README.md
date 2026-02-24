@@ -1,7 +1,7 @@
 ## # 👋 Welcome to My GitHub
 
 I'm Aubrey Joy S. Alido  
-🎓 IT Student | 📌 Project Manager | 🚀 Future IT Leader
+
 
 <!--
 **aubreyjoyalido-eng/aubreyjoyalido-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
