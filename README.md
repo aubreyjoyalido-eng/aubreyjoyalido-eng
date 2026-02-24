@@ -1,4 +1,4 @@
-## # 👋 Welcome to My GitHub
+👋 Welcome to My GitHub
 
 I'm Aubrey Joy S. Alido  
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# # 💫 About Me:
+💫 About Me:
 🎓 BS Information Technology Student<br>📌 Aspiring IT Manager | Project Manager<br><br>💼Certifications:<br>Java<br>HTML & CSS<br>Database Management<br>Networking<br>Network Security<br><br>🚀Passionate about leading IT projects, improving systems, and building efficient technical solutions.<br>🎯Goal: To become a successful IT Manager leading high-performing tech teams.
 
 
