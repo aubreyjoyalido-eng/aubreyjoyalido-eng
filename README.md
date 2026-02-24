@@ -1,4 +1,4 @@
-<h1 align="center">H1 👋, I'm Aubrey Joy S. Alido 🦋</h1>
+<h1 align="center">👋, I'm Aubrey Joy S. Alido 🦋</h1>
 
 
 
