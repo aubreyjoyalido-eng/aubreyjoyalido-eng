@@ -1,4 +1,4 @@
-👋, I'm Aubrey Joy S. Alido 🦋
+<h1 align="center">H1 👋, I'm Aubrey Joy S. Alido 🦋
 
 
 
