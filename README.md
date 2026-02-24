@@ -1,6 +1,6 @@
-👋 Welcome to My GitHub
+👋, I'm Aubrey Joy S. Alido 🦋
 
-I'm Aubrey Joy S. Alido 🦋
+
 
 
 <!--
